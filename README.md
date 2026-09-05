@@ -23,4 +23,4 @@ Core Python and GUI concepts implemented in this project:
   - Trimming unnecessary spaces in user input via `.strip()`.
   - Case-insensitive search mechanism using `.lower()`.
 - **Conditional Statements & Loops:** Data search mechanism using `if-else` blocks and `for` loops over lists.
--
+
